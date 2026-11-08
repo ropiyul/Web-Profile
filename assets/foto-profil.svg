@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Foto profil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b6cf0"/>
+      <stop offset="1" stop-color="#163a9e"/>
+    </linearGradient>
+    <linearGradient id="person" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbe4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#bg)"/>
+  <circle cx="200" cy="185" r="82" fill="url(#person)"/>
+  <path d="M70 500c0-88 58-150 130-150s130 62 130 150z" fill="url(#person)"/>
+  <circle cx="330" cy="70" r="46" fill="#ffb703" opacity="0.9"/>
+  <circle cx="58" cy="420" r="26" fill="#ffffff" opacity="0.18"/>
+</svg>
